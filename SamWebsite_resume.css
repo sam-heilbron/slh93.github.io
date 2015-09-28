@@ -10,14 +10,17 @@
 #content_wrapper {
 	width: 80%;
 	height:155%;
-	position:static;
-	top: 4.6%;
-	color:black;
+	position: relative;
+	left: 20%;
+	top: 30px;
+	background-color:yellow;
 }
-#content_wrapper > div {
-clear:left;
-float:none;
+
+#socialmedia {
+	z-index: 999;
 }
+
+
 
 .nav_extra {
 	height: 35%;
