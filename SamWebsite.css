@@ -1,0 +1,38 @@
+
+body,html {
+    margin:0;
+    padding:0;
+}
+
+.full_width {
+    width:100%;
+    top: 0;
+    left: 0;
+}
+.half_width {
+    width:45%;
+    float:left;
+}
+.third_width {
+    width: 33.33%;
+    float:left;
+}
+.circle {
+    border-radius:50%;
+}
+.hidden {
+    display:none;
+}
+
+#full_container {
+    height: inherit;
+}
+#header {
+    clear:left;
+    float:none;
+}
+
+
+
+
+
