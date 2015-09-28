@@ -14,7 +14,7 @@
 #homepage_primary {
     position: relative;
     height: 95.4%;
-    background-image: url("/Users/samheilbron/Desktop/Pollock-AllBlack_Sam.png");
+    background-image: url("/images/Pollock-AllBlack_Sam.png");
     background-size: 100%;
     background-repeat: repeat-x;
 }
@@ -26,7 +26,7 @@
     margin: 15% 24% 5% 24%;
     background-color: #a5a5a5;
     border-radius:15%;
-    background: url("/Users/samheilbron/Downloads/Sam_posttri_img.jpg");
+    background: url("/images/Sam_posttri_img.jpg");
     background-size:100%;
     border: 3px solid #333333;
     
@@ -79,11 +79,11 @@
     font-family:cursive;
 }
 #resume > .homepage_symbol {
-    background: url("http://www.careerealism.com/wp-content/uploads/2012/10/online-resume-samples.jpg");
+    background: url("/images/homepage_resume_photo.jpg");
     background-size:130%;
 }
 
 #bio > .homepage_symbol {
-    background: url("http://media.nbcsandiego.com/images/1200*1060/Clip+Art+Books+Bibliography.jpg");
+    background: url("/images/homepage_biography_photo.jpg");
     background-size:100%;
 }
