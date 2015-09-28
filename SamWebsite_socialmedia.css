@@ -2,6 +2,7 @@
     height: 4.6%;
     background-color: #a5a5a5;
     border-bottom:1px solid #a5a5a5;
+    position:fixed;
     
 }
 #media_icon_list  {
