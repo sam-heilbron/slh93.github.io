@@ -17,6 +17,7 @@
 }
 
 #socialmedia {
+	position:fixed;
 	z-index: 999;
 }
 
