@@ -1,42 +1,41 @@
-
 body,html {
-    margin:0;
-    padding:0;
+    margin: 0;
+    padding: 0;
 }
 div, p, a {
 	font-family: "Trebuchet MS";
 }
 
 .full_width {
-    width:100%;
+    width: 100%;
     top: 0;
     left: 0;
 }
 .half_width {
-    width:45%;
-    float:left;
+    width: 45%;
+    float: left;
 }
 .third_width {
     width: 33.33%;
-    float:left;
+    float: left;
 }
 .circle {
-    border-radius:50%;
+    border-radius: 50%;
 }
 .hidden {
-    display:none;
+    display: none;
 }
 
 #full_container {
     height: inherit;
 }
 #header {
-    clear:left;
-    float:none;
+    clear: left;
+    float: none;
 }
 a.page_in_use {
-	color:black !important;
-	font-weight:bold !important;
+	color: black !important;
+	font-weight: bold !important;
 }
 
 

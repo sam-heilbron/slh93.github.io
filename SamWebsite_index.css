@@ -11,7 +11,7 @@
 #homepage_primary {
     position: relative;
     height: 95.4%;
-    background-image: url("/images/Pollock-AllBlack_Sam.png");
+    background: url("/images/Pollock-AllBlack_Sam.png");
     background-size: 100%;
     background-repeat: repeat-x;
 }
@@ -23,7 +23,7 @@
     margin: 15% 24% 5% 24%;
     background-color: #a5a5a5;
     border-radius:15%;
-    background-image: url("/images/Sam_posttri_img.jpg");
+    background: url("/images/Sam_posttri_img.jpg");
     background-size:100%;
     border: 3px solid #333333;
     
@@ -75,13 +75,14 @@
     font-family:cursive;
 }
 #resume > .homepage_symbol {
-    background-image: url("/images/homepage_resume_photo.jpg");
+    background: url("/images/homepage_resume_photo.jpg");
     background-size:130%;
 }
 
 #bio > .homepage_symbol {
-    background-image: url("/images/homepage_biography_photo.jpg");
+    background: url("/images/homepage_biography_photo.jpg");
     background-size:100%;
 }
+
 
 
