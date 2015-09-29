@@ -14,7 +14,8 @@
 
 #content_wrapper {
 	width: 73%;
-	height:155%;
+	min-height:80%;
+	height:inherit;
 	position: relative;
 	left: 20%;
 	top: 30px;
@@ -78,4 +79,9 @@
 #page_title h1 {
 	margin:0;
 	padding:0;
+}
+#page_title > h5 {
+	margin:0;
+	padding:0;
+	font-family:cursive;
 }
