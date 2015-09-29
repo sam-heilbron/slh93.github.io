@@ -31,6 +31,10 @@ body,html {
     clear:left;
     float:none;
 }
+a.page_in_use {
+	color:black !important;
+	font-weight:bold !important;
+}
 
 
 
